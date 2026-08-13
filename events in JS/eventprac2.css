@@ -1,0 +1,44 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ 
+h1 {
+ color: aliceblue;
+    background-color: darkblue;
+    height: 5rem;
+    text-align: center;
+    line-height: 5rem;
+}
+
+.choice {
+    height: 100px;
+    width: 100px;
+}
+
+.choices{
+    display: flex;
+    justify-content: center;
+}
+
+img:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+     margin: 90px;
+     border: 2px solid  black;
+     border-radius: 50%;
+}
+
+.score { 
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ 
