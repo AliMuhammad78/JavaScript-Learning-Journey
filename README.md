@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/DOM-Manipulation-4285F4?style=for-the-badge" alt="DOM">
 <img src="https://img.shields.io/badge/API-Integration-6DB33F?style=for-the-badge" alt="API">
-
+ 
 </p> 
 
 <p align="center">
