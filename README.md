@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/DOM-Manipulation-4285F4?style=for-the-badge" alt="DOM">
 <img src="https://img.shields.io/badge/API-Integration-6DB33F?style=for-the-badge" alt="API">
  
-</p> 
+</p>  
 
 <p align="center">
 
