@@ -111,7 +111,7 @@ This section contains practice with:
 ```text
 functions.html
 functions.js
-```
+``` 
 
 ---
 
