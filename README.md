@@ -214,7 +214,7 @@ Asynchronous programming is an important part of modern JavaScript.
 
 I practiced different approaches to handling asynchronous operations.
 
-### Concepts
+### Concepts 
 
 * Synchronous vs asynchronous execution
 * Callbacks
